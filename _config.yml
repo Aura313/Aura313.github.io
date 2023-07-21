@@ -1,19 +1,19 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+title: Tanya's Portfolio
+email: tanyashah010@gmail.com
+description: Tanya's portfolio items.
 baseurl: "/"
-url: "http://mattcouchman.co.uk/jekyll-resume"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+url: "https://tanyashah.me/"
+name: Tanya Shah
+job: Software Developer
+location: Boston, US
+languages: Javascript, Typescript, ReactJS, and Java
+twitter_username: tanya95
+github_username:  Aura313
+# codepen_username:  mattcouchman
+email_address: tanyashah010@gmail.com
 
 # Build settings
 markdown: kramdown
