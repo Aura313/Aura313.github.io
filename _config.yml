@@ -4,15 +4,16 @@
 title: Tanya's Portfolio
 email: tanyashah010@gmail.com
 description: Tanya's portfolio items.
-baseurl: "/"
-url: "https://tanyashah.me/"
+baseurl: ""
+url: ""
 name: Tanya Shah
 job: Software Developer
 location: Boston, US
 languages: Javascript, Typescript, ReactJS, and Java
 twitter_username: tanya95
 github_username:  Aura313
-# codepen_username:  mattcouchman
+codepen_username: null
+linkedin_username: tanya-shah-988952b5/
 email_address: tanyashah010@gmail.com
 
 # Build settings
