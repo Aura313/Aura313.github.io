@@ -7,14 +7,16 @@ description: Tanya's portfolio items.
 baseurl: ""
 url: ""
 name: Tanya Shah
-job: Software Developer
-location: Boston, US
-languages: Javascript, Typescript, ReactJS, and Java
+job: Software Developer, Front-end
+location: San Francisco, US
+languages: Javascript, Typescript, ReactJS, and NodeJS
 twitter_username: tanya95
 github_username:  Aura313
 codepen_username: null
 linkedin_username: tanya-shah-988952b5/
 email_address: tanyashah010@gmail.com
+email_address2: shah.tany@northeastern.edu
+resume_link: https://drive.google.com/file/d/1XxFLZTEZ8owar_9BALGpk30ilL253_CY/view?usp=sharing
 
 # Build settings
 markdown: kramdown
